@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Added Hotkey option to switch off monitor/ activate screensaver , Use Control Key + F2
+
+= Details =
