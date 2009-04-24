@@ -1,4 +1,4 @@
-# explains how much energy you could save using this utility
+#explains how much energy you could save using this utility
 A Typical 17" CRT will consume 80 watts.
 
 In a typical working day of 9 hours, the monitor is useful only for about 8 hours.
