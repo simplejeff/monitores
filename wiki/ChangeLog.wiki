@@ -1,0 +1,30 @@
+#CHANGELOG
+
+    Version 0.3
+
+        * New UI Look
+        * Added Media pause support (WINAMP,AIMP ,WMP)
+        * Added IM status change (Google Talk)
+        * Removed IPAddress,InTime? Features.
+        * Code Cleanup 
+
+    Version 0.2.1
+
+        * Fixed UI Issues
+        * Added Escape Key to Minimize
+        * Added Ip Address 
+
+    Version 0.2
+
+        * Added Close event to System Tray
+        * Added HotKey
+        * Added Auto start option
+        * Added check in time
+        * Added run instance check
+        * Added click & show with mouse
+        * Fixed bugs
+        * Code Cleanup 
+
+    Version 0.1
+
+        * Initial Version 
