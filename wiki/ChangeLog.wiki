@@ -1,4 +1,21 @@
 #CHANGELOG
+   
+    Version 0.4 
+        * iTunes Support
+        * Mute Sound / Unmute ( XP <= )
+        * No Thanks Option ( will disable every thing done by this tool)
+        * Turn On Monitor [CTRL + F3] ( useful for Remote machine )
+        * Minimize at start
+        * Media Monkey Support
+        * 1By1 Support
+        * KMPlayer Support
+        * Yahoo Messenger Support
+        * VLC , Spotify , FooBar Support with PAUSE KEY
+        * Custom Messenger Away Message 
+        * WMP Classic Support
+        * GOM Player , ALShow Player Support
+        * QuickTime , BS Player support with PAUSE KEY
+
 
     Version 0.3
 
