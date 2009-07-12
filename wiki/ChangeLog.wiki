@@ -1,5 +1,4 @@
-#CHANGELOG
-   
+
     Version 0.4 
         * iTunes Support
         * Mute Sound / Unmute ( XP <= )
