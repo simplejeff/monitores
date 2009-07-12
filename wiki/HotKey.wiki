@@ -1,7 +1,9 @@
-#summary One-sentence summary of this page.
+#Hotkeys used in Monitor Energy Saver
 
-= Introduction =
+= Hot Key=
 
-Added Hotkey option to switch off monitor/ activate screensaver , Use Control Key + F2
+TURN OFF MONITOR => Ctrl + F2
 
-= Details =
+TURN ON MONITOR => Ctrl + F3
+
+PAUSE Media Programs => PAUSE KEY ( After Register it via options)
