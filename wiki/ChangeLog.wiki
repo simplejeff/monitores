@@ -4,7 +4,7 @@
         * iTunes Support
         * Mute Sound / Unmute ( XP <= )
         * No Thanks Option ( will disable every thing done by this tool)
-        * Turn On Monitor [CTRL + F3] ( useful for Remote machine )
+        * Turn On Monitor (CTRL + F3) ( useful for Remote machine )
         * Minimize at start
         * Media Monkey Support
         * 1By1 Support
