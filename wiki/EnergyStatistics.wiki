@@ -1,4 +1,4 @@
-#EnergyStatistics 
+#Report 
 
 Explains how much energy you could save using this utility(Only for India and approx.)
 
