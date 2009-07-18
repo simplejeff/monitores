@@ -1,4 +1,5 @@
 #summary Guide to setup VLC Media Player to support pause
+#labels Featured
 
 = Introduction =
 
