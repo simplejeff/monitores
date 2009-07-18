@@ -7,7 +7,8 @@
         * Foobar2000 support on Lock 
         * VLC Media Player Support ( via HTTP Interface )
         * XMPlay with PAUSE key
-        * minor bugs fixed.
+        * Minor bugs fixed.
+        * Replaced UPX Compression with PE Pack 1.0 Compression
 
   Version 0.4 
         * iTunes Support
