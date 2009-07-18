@@ -1,0 +1,15 @@
+#summary Development System Requirements
+
+= Introduction =
+
+Requirements
+
+ * Dev-C++ Compiler 
+
+= Details =
+
+Checkout code from source svn . You will require the following lib files to compile this utility.
+
+* Ole32.Lib
+* WinMM.Lib
+* WinInet.Lib
