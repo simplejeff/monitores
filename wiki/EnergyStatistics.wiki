@@ -1,6 +1,4 @@
-#Report 
-
-Explains how much energy you could save using this utility(Only for India and approx.)
+#summary Explains how much energy you could save using this utility(Only for India and approx.)
 
 
 A Typical 17" CRT will consume 80 watts.
