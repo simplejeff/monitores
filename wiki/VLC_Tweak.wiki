@@ -1,0 +1,16 @@
+#summary Guide to setup VLC Media Player to support pause
+
+= Introduction =
+
+VLC Media Player pause on lock can be done with this simple tweak in VLC
+
+
+= Details =
+
+Open VLC Media Player and navigate to Menu -> Tools -> Preferences 
+
+Make sure you have selected Interface / Main Interface / HTTP remote control interface 
+
+
+Thats it . Now you can pause / play on machine lock.
+
