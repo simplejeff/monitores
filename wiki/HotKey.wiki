@@ -1,6 +1,4 @@
-#Hotkeys used in Monitor Energy Saver
-
-= Hot Key=
+#summary used in Monitor Energy Saver
 
 TURN OFF MONITOR => Ctrl + F2
 
