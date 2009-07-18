@@ -11,6 +11,6 @@ Open VLC Media Player and navigate to Menu -> Tools -> Preferences
 
 Make sure you have selected Interface / Main Interface / HTTP remote control interface 
 
+http://monitores.googlecode.com/files/VLC_Settings.png
 
 Thats it . Now you can pause / play on machine lock.
-
