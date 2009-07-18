@@ -1,4 +1,5 @@
 #summary Monitor Energy Saver 0.4 Screenshots
+#labels Featured
 
 http://monitores.googlecode.com/files/MES_MW_04.png
 
