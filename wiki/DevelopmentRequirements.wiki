@@ -10,8 +10,6 @@ Requirements
 
 Checkout code from source svn . You will require the following lib files to compile this utility.
 
-*Ole32.Lib
-
-*WinMM.Lib
-
-*WinInet.Lib
+#Ole32.Lib
+#WinMM.Lib
+#WinInet.Lib
