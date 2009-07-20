@@ -1,7 +1,9 @@
 #summary HOTKEY'S in Monitor Energy Saver
 
-TURN OFF MONITOR => Ctrl + F2
+Ctrl + F2 - Turn Off Monitor
 
-TURN ON MONITOR => Ctrl + F3
+Ctrl + F3 - Turn on Monitor ( only for remote machines )
 
-PAUSE Media Programs => PAUSE KEY ( After Register it via options)
+Pause - Pause/play running media program
+
+Esc - Minimize the program to system tray
