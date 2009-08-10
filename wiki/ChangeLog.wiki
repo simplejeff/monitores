@@ -1,6 +1,13 @@
 #summary Monitor Energy Saver Change log
 #labels Featured
 
+  Version 0.5
+        * Added Miranda IM Support
+        * Added Digsby Support 
+        * Now listen to your pause status for iTunes & winamp based players.
+        * Code Refactor & cleanup.
+        * Removed previous versions from SVN repository
+
   Version 0.4.1
         * Spotify support on Lock 
         * BSPlayer support on Lock
