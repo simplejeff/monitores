@@ -35,7 +35,7 @@
         * QuickTime , BS Player support with PAUSE KEY
 
 
-    Version 0.3
+  Version 0.3
 
         * New UI Look
         * Added Media pause support (WINAMP,AIMP ,WMP)
@@ -43,13 +43,13 @@
         * Removed IPAddress,InTime? Features.
         * Code Cleanup 
 
-    Version 0.2.1
+  Version 0.2.1
 
         * Fixed UI Issues
         * Added Escape Key to Minimize
         * Added Ip Address 
 
-    Version 0.2
+  Version 0.2
 
         * Added Close event to System Tray
         * Added HotKey
@@ -60,6 +60,6 @@
         * Fixed bugs
         * Code Cleanup 
 
-    Version 0.1
+  Version 0.1
 
         * Initial Version 
