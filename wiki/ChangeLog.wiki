@@ -8,7 +8,7 @@
         * Code Refactor & cleanup.
         * Removed previous versions from SVN repository
 
-  Version 0.4.1
+  Version 0.4.1 (18/07/2009)
         * Spotify support on Lock 
         * BSPlayer support on Lock
         * iTunes bug Fixed
@@ -18,7 +18,7 @@
         * Minor bugs fixed.
         * Replaced UPX Compression with PE Pack 1.0 Compression
 
-  Version 0.4 
+  Version 0.4 (12/07/2009)
         * iTunes Support
         * Mute Sound / Unmute ( XP <= )
         * No Thanks Option ( will disable every thing done by this tool)
@@ -35,7 +35,7 @@
         * QuickTime , BS Player support with PAUSE KEY
 
 
-  Version 0.3
+  Version 0.3(25/04/2009)
 
         * New UI Look
         * Added Media pause support (WINAMP,AIMP ,WMP)
@@ -43,13 +43,13 @@
         * Removed IPAddress,InTime? Features.
         * Code Cleanup 
 
-  Version 0.2.1
+  Version 0.2.1(22/04/2009)
 
         * Fixed UI Issues
         * Added Escape Key to Minimize
         * Added Ip Address 
 
-  Version 0.2
+  Version 0.2(20/04/2009)
 
         * Added Close event to System Tray
         * Added HotKey
@@ -60,6 +60,6 @@
         * Fixed bugs
         * Code Cleanup 
 
-  Version 0.1
+  Version 0.1(28/01/2009)
 
         * Initial Version 
