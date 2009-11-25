@@ -4,12 +4,12 @@
 
 Requirements
 
- * Dev-C++ Compiler 
+ * Dev-C++ IDE / Code::Blocks IDE
+ * MingW
+ * GCC for windows
+ * Ole32.Lib
+ * WinInet.Lib
+ * WinMM.Lib
 
 = Details =
-
-Checkout code from source svn . You will require the following lib files to compile this utility.
-
-#Ole32.Lib
-#WinMM.Lib
-#WinInet.Lib
+Yet to write
