@@ -1,6 +1,14 @@
 #summary Monitor Energy Saver Change log
 #labels Featured
 
+Version 1.0-Final
+     * Work In Progress
+
+Version 1.0.1b(-)
+     * Completely rewritten from scratch.
+     * Added mute support for Vista/Win7 systems.
+     * New UI preferences
+
 Version 0.5 (08/08/2009)
 
      * Added Miranda IM Support
